@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kong68&label=Profile%20views&color=0e75b6&style=flat" alt="kong68" /> </p>
 
 - 📫 How to reach me **tpfl10048@naver.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
