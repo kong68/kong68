@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kong68&label=Profile%20views&color=0e75b6&style=flat" alt="kong68" /> </p>
 
 - 📫 How to reach me **tpfl10048@naver.com**
-- 📜 Portfolio **[www.naver.com](https://glow-astronaut-372.notion.site/Portfolio-a794dea9b12b49cda2621da112a10ed2)**
+- 📜 Portfolio **[notion]https://glow-astronaut-372.notion.site/Portfolio-a794dea9b12b49cda2621da112a10ed2)**
 <p align="left">
 </p>
 
